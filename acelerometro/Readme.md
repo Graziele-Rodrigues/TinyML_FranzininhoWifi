@@ -46,6 +46,11 @@ Este projeto utiliza um acelerômetro **LIS3DH** e LEDs para classificar movimen
 2. Faça upload do código para a placa ESP32.
 3. Abra o monitor serial para ver as predições em tempo real.
 
+## Resultados
+![Caminhando](img/caminhando_resultado.png)
+![Parado](img/parado_resultado.png)
+![Pulando](img/pulando_resultado.png)
+
 ## Dependências
 
 - Biblioteca **Edge Impulse** para realizar a inferência de machine learning.
