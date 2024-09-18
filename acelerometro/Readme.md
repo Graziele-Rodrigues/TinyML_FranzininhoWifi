@@ -48,7 +48,7 @@ Este projeto utiliza um acelerômetro **LIS3DH** e LEDs para classificar movimen
 
 ## Resultados
 ![Caminhando](img/caminhando_resultado.png)
-![Parado](img/parado_resultado.png)
+![Parado](img/resultado_parado.png)
 ![Pulando](img/pulando_resultado.png)
 
 ## Dependências
